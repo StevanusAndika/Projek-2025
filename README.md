@@ -4,7 +4,7 @@
 
 ---
 
-# Daftar Projek 2024
+# Daftar Projek 2025
 
 Berikut adalah daftar proyek yang saya kerjakan selama tahun 2024:
 
