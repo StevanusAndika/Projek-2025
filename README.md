@@ -55,7 +55,7 @@ Web service untuk konversi suhu dengan API backend.
 ### 10. Image Analyzer dengan Google Gemini AI
 Aplikasi analisis gambar dengan integrasi Google Gemini AI.
 - **Teknologi**: NuxtJS, Tailwind CSS, Google Gemini API
-- **GitHub**: [Image Analyzer](https://github.com/StevanusAndika/thermoconvert)
+- **GitHub**: [Image Analyzer](https://github.com/StevanusAndika/image-analyzer)
 
 ### 11. RESTful API dengan Laravel & Flutter
 Aplikasi full-stack dengan backend Laravel dan frontend Flutter.
@@ -64,7 +64,7 @@ Aplikasi full-stack dengan backend Laravel dan frontend Flutter.
 
 ### 12. Website Otomotif & Kalkulator Budget
 Landing page otomotif dengan kalkulator budget pembelian mobil.
-- **Website**: [Otolabs](https://stevanusandika.github.io/Otolabs/)
+- **Landing Pages**: [Otolabs](https://stevanusandika.github.io/Otolabs/)
 - **Kalkulator**: [VROOM](https://stevanusandika.github.io/Otolabs/Vroom.html)
 
 ### 13. Website Hitung Tabungan
