@@ -90,6 +90,27 @@ Proyek Untuk UTS
 Proyek besar yang sedang dalam pengembangan.
 - **Status**: Dalam pengerjaan
 - **GitHub**: *Segera hadir*
+
+### 18.Automasi testing untuk video terpopuler dan terbanyak dalam JKT48.
+Dengn Java,dan selenium,webdriver.
+- **GitHub**: *[Selenium Java](https://github.com/StevanusAndika/selenium-vscode)*
+
+### 19.Control ESP8266 
+Dengan dart.
+- **GitHub**: *[Smart Hub Controller](https://github.com/StevanusAndika/smart_hub_controller)*
+
+### 20.Control ESP8266 with dart
+Dengn Java,dan selenium,webdriver.
+- **GitHub**: *[Smart Hub Controller](https://github.com/StevanusAndika/smart_hub_controller)*
+
+### 20.Converter jmx(jmeter to csv)
+Dengn Html,CSS,javascript.
+- **GitHub**: *[Jmeter-converter-csv](https://github.com/StevanusAndika/Jmeter-converter-csv)*
+  
+### 21.Dompetqu_appp
+dengan dart,hive.
+- **GitHub**: *[dompetqu_app](https://github.com/StevanusAndika/dompetqu_app)*
+
 ---
 
 Portofolio ini merupakan kumpulan proyek yang saya kerjakan sebagai bahan pembelajaran dan referensi. Silakan explore lebih lanjut untuk melihat detail implementasi masing-masing proyek!
