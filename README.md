@@ -107,7 +107,7 @@ Dengn Java,dan selenium,webdriver.
 Dengn Html,CSS,javascript.
 - **GitHub**: *[Jmeter-converter-csv](https://github.com/StevanusAndika/Jmeter-converter-csv)*
   
-### 21.Dompetqu_appp
+### 21.Dompetqu_app(aplikasi pencatat untuk pencatatan uang masuk,uang keluar).
 dengan dart,hive.
 - **GitHub**: *[dompetqu_app](https://github.com/StevanusAndika/dompetqu_app)*
 
