@@ -1,90 +1,116 @@
-Berikut hasil penambahan titik di setiap akhir kata terakhir pada tiap baris/poin:
+# Portofolio 2025
 
-# 📌 Daftar Proyek (2026).
-
-### 1. 🔗 Short URL Service.
-Layanan web untuk mempersingkat tautan (URL shortener) dengan performa cepat, antarmuka minimalis, dan deployment yang efisien.
-- **Fitur Utama**: URL shortening instan, validasi tautan, dan redirection responsif.
-- **Tech Stack**: AstroJS, Tailwind CSS, Vercel.
-- **Tautan**: [GitHub Repository](https://github.com/StevanusAndika/short-url).
+Selamat datang di portofolio proyek-proyek yang telah saya kerjakan selama tahun 2025. Koleksi ini mencakup berbagai bidang teknologi seperti pengembangan web, aplikasi desktop, mobile, AI.
 
 ---
 
-### 2. 🎂 Hitung Tanggal Lahir.
-Aplikasi berbasis web interaktif untuk menghitung selisih usia, total hari, dan detail tanggal/tahun lahir terhadap tanggal saat ini secara real-time.
-- **Fitur Utama**: Kalkulasi usia presisi, antarmuka dinamis, dan kalkulator hari.
-- **Tech Stack**: React.js, Vite, Tailwind CSS.
-- **Tautan**: [GitHub Repository](https://github.com/StevanusAndika/react-js-project).
+## Daftar Proyek
+
+### 1. Fakta Teknologi Berdasarkan Tahun Kelahiran (Integrasi AI)
+Platform yang menampilkan perkembangan teknologi sesuai tahun kelahiran pengguna dengan integrasi AI.
+- **Teknologi**: Python, AI Integration
+- **GitHub**: [projek-python](https://github.com/StevanusAndika/AI-Python)
+
+### 2. WhatsApp Bot (Automated Messaging)
+Bot otomatis untuk mengirim pesan WhatsApp menggunakan berbagai library Python.
+- **Teknologi**: Python, PyAutoGUI, PyWhatKit
+- **GitHub**: [WhatsApp Bot](https://github.com/StevanusAndika/whatsapp-bot)
+
+### 3. Sistem Informasi Penjualan Kafe
+Sistem lengkap untuk manajemen penjualan kafe dengan fitur impor/ekspor data.
+- **Teknologi**: Laravel 12, Filament, Tailwind CSS
+- **GitHub**: [Coffee Shop](https://github.com/StevanusAndika/cofee-shop)
+
+### 4. Prediksi Gender Berdasarkan Nama
+Website untuk memprediksi gender berdasarkan nama depan menggunakan API eksternal.
+- **Teknologi**: HTML, Tailwind CSS, JavaScript, Genderize API
+- **GitHub**: [Prediksi Gender by Name](https://stevanusandika.github.io/prediksi-nama/)
+
+### 5. Sistem Penjadwalan Terintegrasi WhatsApp
+Sistem penjadwalan dengan integrasi notifikasi WhatsApp.
+- **Teknologi**: PHP 8, Bootstrap, MySQL, Fonnte API
+- **Website**: [Penjadwalan](https://penjadwalan.steven-blog.my.id/index.php)
+- **GitHub**: *DM Via Email*
+
+### 6. Aplikasi Kasir Desktop
+Aplikasi kasir sederhana berbasis desktop dengan antarmuka grafis.
+- **Teknologi**: Python, Tkinter, MySQL
+- **GitHub**: [Aplikasi Kasir Python](https://github.com/StevanusAndika/aplikasi_kasir_python_final)
+
+### 7. Website Rating Film
+Platform rating film dengan data real-time dari TMDB API.
+- **Teknologi**: Tailwind CSS, JavaScript, TMDB API
+- **Website**: [Steven Movie](https://stevanusandika.github.io/steven-movie/)
+
+### 8. Simulasi Komunikasi Client-Server
+Aplikasi simulasi komunikasi jaringan antara client dan server.
+- **Teknologi**: Java, Socket Programming
+- **GitHub**: [Socket Programming](https://github.com/StevanusAndika/SocketProgramming)
+
+### 9. Aplikasi Konversi Suhu (Go)
+Web service untuk konversi suhu dengan API backend.
+- **Teknologi**: Go, Gorilla Mux, Tailwind CSS
+- **GitHub**: [ThermoConvert](https://github.com/StevanusAndika/thermoconvert)
+
+### 10. Image Analyzer dengan Google Gemini AI
+Aplikasi analisis gambar dengan integrasi Google Gemini AI.
+- **Teknologi**: NuxtJS, Tailwind CSS, Google Gemini API
+- **GitHub**: [Image Analyzer](https://github.com/StevanusAndika/image-analyzer)
+
+### 11. RESTful API dengan Laravel & Flutter
+Aplikasi full-stack dengan backend Laravel dan frontend Flutter.
+- **Backend**: [Laravel API](https://github.com/StevanusAndika/laravel12-api)
+- **Frontend**: [Flutter App](https://github.com/StevanusAndika/flutter_pemula)
+
+### 12. Website Otomotif & Kalkulator Budget
+Landing page otomotif dengan kalkulator budget pembelian mobil.
+- **Landing Pages**: [Otolabs](https://stevanusandika.github.io/Otolabs/)
+- **Kalkulator**: [VROOM](https://stevanusandika.github.io/Otolabs/Vroom.html)
+
+### 13. Website Hitung Tabungan
+Aplikasi web untuk menghitung tabungan dan perencanaan keuangan.
+- **Teknologi**: PHP Native, Bootstrap, MySQL
+- **GitHub**: [TabunganKu](https://github.com/StevanusAndika/tabunganku/)
+
+### 14. Belajar Bash Linux
+Koleksi script dan materi pembelajaran bahasa pemrograman Bash Linux.
+- **GitHub**: [Belajar Bash Linux](https://github.com/StevanusAndika/Belajar-bash-linux)
+
+### 15. Testing Web Performance dengan K6
+Proyek testing performa web menggunakan K6 dan Grafana.
+- **Teknologi**: JavaScript, K6, Grafana
+- **GitHub**: [Testing Web Performance](https://github.com/StevanusAndika/testing-web)
+
+### 16. Kalkulator hitung luas bangun datar 
+Proyek Untuk UTS
+- **Teknologi**:PHP,HTML,CSS Dan MYSQL
+- **GitHub**: *[Kalkulator Bangun luas](https://github.com/StevanusAndika/kalkulator-luas)*
+  
+### 17. Capstone Project (Coming Soon)
+Proyek besar yang sedang dalam pengembangan.
+- **Status**: Dalam pengerjaan
+- **GitHub**: *Segera hadir*
+
+### 18.Automasi testing untuk video terpopuler dan terbanyak dalam JKT48.
+Dengn Java,dan selenium,webdriver.
+- **GitHub**: *[Selenium Java](https://github.com/StevanusAndika/selenium-vscode)*
+
+### 19.Control ESP8266 
+Dengan dart.
+- **GitHub**: *[Smart Hub Controller](https://github.com/StevanusAndika/smart_hub_controller)*
+
+### 20.Control ESP8266 with dart
+Dengn Java,dan selenium,webdriver.
+- **GitHub**: *[Smart Hub Controller](https://github.com/StevanusAndika/smart_hub_controller)*
+
+### 20.Converter jmx(jmeter to csv)
+Dengn Html,CSS,javascript.
+- **GitHub**: *[Jmeter-converter-csv](https://github.com/StevanusAndika/Jmeter-converter-csv)*
+  
+### 21.Dompetqu_app(aplikasi pencatat untuk pencatatan uang masuk,uang keluar).
+dengan dart,hive.
+- **GitHub**: *[dompetqu_app](https://github.com/StevanusAndika/dompetqu_app)*
 
 ---
 
-### 3. 🏢 Sistem Informasi ERP Perusahaan *(Internship Project)*.
-Sistem enterprise resource planning (ERP) komprehensif untuk mengelola operasional internal perusahaan secara terpusat dan aman.
-- **Fitur Utama**:
-  - Manajemen absensi & presensi karyawan.
-  - Pengajuan serta alur persetujuan (*approval workflow*) reimbursement dan cuti.
-  - Pencatatan & pelacakan inventaris aset perusahaan.
-  - Integrasi notifikasi WhatsApp Gateway, kalender libur nasional, serta proteksi keamanan bot & DDoS.
-- **Tech Stack**: Laravel, Bootstrap 5, Tailwind CSS, Fonnte API, Cloudflare, Google reCAPTCHA.
-- **Tautan**: [Live Demo / Web ERP](https://sectoorindonesia.id/login).
-
----
-
-### 4. ⛅ Prediksi Cuaca 7 Hari (OpenWeather API).
-Aplikasi pengolah data cuaca untuk menganalisis dan memvisualisasikan prakiraan cuaca suatu wilayah dalam periode 7 hari ke depan.
-- **Fitur Utama**: Pengambilan data otomatis via OpenWeather API, visualisasi grafik tren cuaca, dan ekspor laporan ke format Excel (`.xlsx`).
-- **Tech Stack**: Python, Pandas, Matplotlib, OpenPyXL, XlsxWriter.
-- **Tautan**: [GitHub Repository](https://github.com/StevanusAndika/Prediksi-jakarta).
-
----
-
-### 5. 🎤 Japanese Idol Group Scraper (Chika / Underground Idol).
-Platform web untuk mengumpulkan dan menyajikan database informasi seputar idol group jejepangan, baik komunitas independen lokal (chika idol) maupun skala internasional.
-- **Fitur Utama**: Scraping data idol terotomatisasi, visualisasi profil anggota, serta pipeline CI/CD dan container orchestration.
-- **Tech Stack**: React 19, Tailwind CSS, shadcn/ui, Jenkins, Docker, Kubernetes (Minikube).
-
----
-
-### 6. 📈 Prediksi Kurs Mata Uang (Gaussian Naive Bayes).
-Proyek analisis data dan machine learning untuk memprediksi pergerakan kurs valuta asing (JPY to IDR, IDR to EUR, IDR to USD) berdasarkan data historis.
-- **Fitur Utama**: Web scraping data kurs dari *exchangerate.fun*, visualisasi korelasi dan distribusi harga, serta pemodelan klasifikasi menggunakan algoritma *Gaussian Naive Bayes*.
-- **Tech Stack**: Python, Jupyter Notebook, Pandas, yfinance, Scikit-Learn, Matplotlib, Seaborn.
-- **Tautan**: [GitHub Repository](https://github.com/StevanusAndika/currency_mov_money).
-
----
-
-### 7. 🔒 Secure Pixels — Steganografi Gambar (LSB Encryption).
-Aplikasi berbasis web untuk menyembunyikan pesan rahasia ke dalam berkas gambar digital menggunakan metode *Least Significant Bit (LSB)* steganography tanpa merusak tampilan visual gambar.
-- **Fitur Utama**: Enkripsi dan dekripsi pesan langsung di browser, download hasil stego-image, serta antarmuka modern.
-- **Tech Stack**: React.js, Tailwind CSS, shadcn/ui.
-- **Tautan**: [GitHub Repository](https://github.com/StevanusAndika/encrypt-decrypt-messages).
-
----
-
-### 8. 🤖 ChatBot AI (Excel Q&A Knowledge Base).
-Aplikasi chatbot cerdas yang mampu membaca dan mengekstrak basis pengetahuan dari berkas spreadsheet (Excel) untuk menjawab pertanyaan pengguna secara relevan dan natural.
-- **Fitur Utama**: Dynamic prompt engineering, RAG / pembacaan context dari file Excel, respons streaming, dan integrasi model LLM Google Gemini.
-- **Tech Stack**: Laravel, Laravel AI SDK, Google Gemini API, Bootstrap 5.
-- **Tautan**: [GitHub Repository](https://github.com/StevanusAndika/chatbot-ai).
-
----
-
-### 9. ⚡ High-Performance CRUD (Golang + GraphQL).
-Aplikasi backend CRUD berkinerja tinggi yang memanfaatkan kemampuan konkurensi native dari Go Runtime dan fleksibilitas query GraphQL.
-- **Fitur Utama**: GraphQL Schema & Resolver, Go Goroutines Concurrency, autentikasi berbasis JWT, Caching Layer di level server, dan optimasi query dengan SQL Prepared Statements.
-- **Tech Stack**: Golang, GraphQL, Tailwind CSS, shadcn/ui.
-- **Tautan**: [GitHub Repository](https://github.com/StevanusAndika/GraphQL-Exercise).
-
----
-
-## 🤝 Tertarik Menggunakan Proyek atau Berkolaborasi?.
-
-Portofolio ini merupakan wujud eksplorasi teknis dan referensi pengembangan yang telah saya bangun. Jika Anda:
-- 💡 Tertarik untuk **mengimplementasikan atau menggunakan** salah satu proyek di atas,
-- 💼 Ingin mendiskusikan **peluang kerja sama / proyek freelance**, atau
-- 📬 Memiliki pertanyaan dan masukan seputar proyek,
-
-Jangan ragu untuk menghubungi saya melalui:
-
-📧 **Email:** [stevcomp58@gmail.com](mailto:stevcomp58@gmail.com).  
-🐙 **GitHub:** [@StevanusAndika](https://github.com/StevanusAndika).
+Portofolio ini merupakan kumpulan proyek yang saya kerjakan sebagai bahan pembelajaran dan referensi. Silakan explore lebih lanjut untuk melihat detail implementasi masing-masing proyek!
